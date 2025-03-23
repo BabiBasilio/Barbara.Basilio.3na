@@ -1,0 +1,6 @@
+# Ignorar arquivos TOML específicos do Cargo
+target/
+Cargo.lock
+
+# Ignorar arquivos toml de configuração local (se necessário)
+**/*.toml
